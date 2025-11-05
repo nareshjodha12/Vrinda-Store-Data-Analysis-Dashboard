@@ -1,7 +1,7 @@
-# 📌📌Vrinda Store Data Analysis (Interactive Dashboard Creation using MS Excel)
+# 📌 Vrinda Store Data Analysis (Interactive Dashboard Creation using MS Excel)
 
 ## 📌 Project Overview
-•	The goal of this project is to develop an annual sales analysis dashboard for Vrinda
+-	The goal of this project is to develop an annual sales analysis dashboard for Vrinda
   Store to better understand customer behavior and drive sales growth during the years 
   2022-2024.
 
