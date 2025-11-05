@@ -69,4 +69,4 @@
 
 
  ### ✅ Dashboard
-  [Screenshot.png](https://github.com/nareshjodha12/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Screenshot.png)
+ ![Screenshot.png](https://github.com/nareshjodha12/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Screenshot.png)
