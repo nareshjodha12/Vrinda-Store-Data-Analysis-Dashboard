@@ -24,7 +24,7 @@
 
 
 ### ✅ Dashboard Tabs
-View Dashboard
+<a href="https://github.com/nareshjodha12/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Screenshot.png">View Dashboard</a>
 
 
 ## 📌 Process Followed
